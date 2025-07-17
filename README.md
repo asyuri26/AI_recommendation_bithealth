@@ -22,7 +22,7 @@ Proyek ini merupakan aplikasi berbasis **FastAPI** yang memanfaatkan **LLM (Larg
    - Gejala yang diketik (dipisah koma) akan diproses menjadi list Python dan dibersihkan dari spasi.
 
 3. **Prompt Engineering**
-   - Sistem mengambil **beberapa contoh kasus (few-shot examples)** dan menggabungkannya dengan input pengguna untuk membentuk *prompt dinamis*.
+   - Sistem mengambil **beberapa contoh kasus (few-shot learning)** dan menggabungkannya dengan input pengguna untuk membentuk *prompt dinamis*.
 
 4. **Prediksi dengan LLM**
    - Prompt dikirim ke model **GPT-4o-mini** melalui API untuk memprediksi **departemen medis yang sesuai** (misal: “Neurology”, “Cardiology”, dll).
