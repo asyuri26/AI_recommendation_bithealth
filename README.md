@@ -20,6 +20,7 @@ Proyek ini merupakan aplikasi berbasis **FastAPI** yang memanfaatkan **LLM (Larg
 | 🐍 Python        | Bahasa pemrograman utama                  |
 | ⚡ FastAPI       | Web framework asynchronous                |
 | 🔮 OpenAI / LLM  | Model bahasa besar untuk analisis gejala |
+| gpt-4o-mini       |                                          |
 | 🧾 Jinja2        | Template engine untuk HTML rendering      |
 | 🌐 HTML/CSS      | Tampilan user form                        |
 | 🧪 Swagger UI    | Interface interaktif untuk testing API    |
