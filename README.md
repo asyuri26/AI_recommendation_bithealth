@@ -13,7 +13,7 @@ Proyek ini merupakan aplikasi berbasis **FastAPI** yang memanfaatkan **LLM (Larg
 
 ---
 
-## 🧠 Cara Kerja Web Rekomendasi
+## Cara Kerja Web Rekomendasi
 
 1. **Input Form Pengguna**
    - User mengisi gender, usia, dan daftar gejala dalam form HTML. Seperti contoh, male, 30, pusing, mual, dan sakit pinggang.
