@@ -1,0 +1,152 @@
+[
+  {
+    "gender": "male",
+    "age": 55,
+    "symptoms": ["nyeri dada", "jantung berdebar", "sesak napas"],
+    "department": "Cardiology"
+  },
+  {
+    "gender": "male",
+    "age": 44,
+    "symptoms": ["nyeri dada", "batuk berdarah", "demam"],
+    "department": "Pulmonology"
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": ["nyeri dada", "mual", "dada terasa panas"],
+    "department": "Gastroenterology"
+  },
+  {
+    "gender": "female",
+    "age": 60,
+    "symptoms": ["pusing", "kehilangan keseimbangan", "kesemutan tangan"],
+    "department": "Neurology"
+  },
+  {
+    "gender": "male",
+    "age": 63,
+    "symptoms": ["pusing", "jantung berdebar", "tekanan darah rendah"],
+    "department": "Cardiology"
+  },
+  {
+    "gender": "female",
+    "age": 50,
+    "symptoms": ["pusing", "telinga berdenging", "mual saat gerak kepala"],
+    "department": "ENT"
+  },
+  {
+    "gender": "female",
+    "age": 41,
+    "symptoms": ["mual", "sakit perut", "diare"],
+    "department": "Gastroenterology"
+  },
+  {
+    "gender": "male",
+    "age": 35,
+    "symptoms": ["mual", "keringat dingin", "nyeri dada kiri"],
+    "department": "Cardiology"
+  },
+  {
+    "gender": "female",
+    "age": 58,
+    "symptoms": ["mual", "kesemutan wajah", "bicara pelo"],
+    "department": "Neurology"
+  },
+  {
+    "gender": "female",
+    "age": 47,
+    "symptoms": ["lemas", "pusing", "sering haus", "banyak buang air kecil"],
+    "department": "Endocrinology"
+  },
+  {
+    "gender": "female",
+    "age": 50,
+    "symptoms": ["gusi berdarah", "bau mulut", "gigi goyang"],
+    "department": "Dentistry"
+  },
+  {
+    "gender": "male",
+    "age": 66,
+    "symptoms": ["tulang retak", "memar", "nyeri saat berjalan"],
+    "department": "Orthopedics"
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": ["gelisah", "sulit tidur", "sering menangis"],
+    "department": "Psychiatry"
+  },
+  {
+    "gender": "male",
+    "age": 35,
+    "symptoms": ["kulit kemerahan", "gatal hebat", "ruam menyebar"],
+    "department": "Dermatology"
+  },
+  {
+    "gender": "female",
+    "age": 55,
+    "symptoms": ["pandangan kabur", "mata merah", "sensitif terhadap cahaya"],
+    "department": "Ophthalmology"
+  },
+  {
+    "gender": "male",
+    "age": 70,
+    "symptoms": ["telinga tersumbat", "pendengaran berkurang", "nyeri saat mengunyah"],
+    "department": "ENT"
+  },
+  {
+    "gender": "female",
+    "age": 60,
+    "symptoms": ["nyeri saat buang air kecil", "anyangan", "punggung bawah sakit"],
+    "department": "Urology"
+  },
+  {
+    "gender": "male",
+    "age": 7,
+    "symptoms": ["demam tinggi", "ruam tubuh", "batuk kering"],
+    "department": "Pediatrics"
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": ["nyeri haid", "keputihan", "bau tidak sedap"],
+    "department": "Gynecology"
+  },
+  {
+    "gender": "male",
+    "age": 48,
+    "symptoms": ["napas pendek", "nyeri dada", "keringat berlebih saat aktivitas"],
+    "department": "Cardiology"
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": ["kesemutan kaki", "nyeri punggung bawah", "kesulitan berdiri lama"],
+    "department": "Orthopedics"
+  },
+  {
+    "gender": "male",
+    "age": 33,
+    "symptoms": ["penurunan berat badan drastis", "rasa haus terus menerus", "lemas"],
+    "department": "Endocrinology"
+  },
+  {
+    "gender": "female",
+    "age": 52,
+    "symptoms": ["keringat malam", "haid tidak teratur", "hot flashes"],
+    "department": "Gynecology"
+  },
+  {
+    "gender": "male",
+    "age": 59,
+    "symptoms": ["gangguan bicara", "lemah sebelah tubuh", "sulit berjalan lurus"],
+    "department": "Neurology"
+  },
+  {
+    "gender": "female",
+    "age": 43,
+    "symptoms": ["gatal ringan", "kulit bersisik", "rambut rontok"],
+    "department": "Dermatology"
+  }
+]
