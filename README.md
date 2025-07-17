@@ -82,5 +82,7 @@ Swagger UI (Testing API):
 http://127.0.0.1:8000/docs
 ```
 
+Link Deploy : https://airecommendationbithealth-production.up.railway.app/
+
 Author
 Made by asyuri26
