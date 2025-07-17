@@ -27,26 +27,6 @@ Proyek ini merupakan aplikasi berbasis **FastAPI** yang memanfaatkan **LLM (Larg
 
 ---
 
-## 📁 Struktur Proyek
-
-bithealth/
-├── llm_utils/
-│ ├── config.py # Konfigurasi LLM/API
-│ └── prompt.py # Template prompt dan contoh
-├── templates/
-│ ├── form.html # Form input pengguna
-│ └── result.html # Hasil rekomendasi
-├── example_dataset.json # Contoh dataset gejala
-├── main.py # File utama aplikasi FastAPI
-├── requirements.txt # Daftar dependencies
-└── README.md # Dokumentasi proyek
-
-yaml
-Copy
-Edit
-
----
-
 ## ⚙️ Cara Menjalankan Aplikasi
 
 ### 1. Clone Repository
@@ -54,23 +34,31 @@ Edit
 ```bash
 git clone https://github.com/asyuri26/AI_recommendation-bithealth.git
 cd AI_recommendation-bithealth
+```
+
 2. Buat Virtual Environment (opsional tapi direkomendasikan)
-bash
+```bash
 Copy
 Edit
 python -m venv venv
-source venv/bin/activate        # MacOS/Linux
-venv\Scripts\activate           # Windows
+source venv/bin/activate # MacOS/Linux
+venv\Scripts\activate  # Windows
+```
+
 3. Install Dependencies
-bash
+```bash
 Copy
 Edit
 pip install -r requirements.txt
+```
+
 4. Jalankan Aplikasi
-bash
+```bash
 Copy
 Edit
 uvicorn main:app --reload
+```
+
 5. Akses Aplikasi
 Form HTML (User Interface):
 http://127.0.0.1:8000/
