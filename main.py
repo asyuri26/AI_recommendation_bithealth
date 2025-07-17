@@ -1,5 +1,6 @@
 from fastapi import FastAPI, Request, Form
 from fastapi.responses import HTMLResponse
+from fastapi.responses import JSONResponse
 from fastapi.templating import Jinja2Templates
 
 from llm_utils.config import llm
@@ -41,8 +42,7 @@ async def recommend_route(
         "symptoms": ", ".join(symptoms_list),
         "department": department
     })
-from fastapi.responses import JSONResponse
-
+    
 @app.post("/recommend(testjson)", response_class=JSONResponse)
 async def recommend_json(
     gender: str = Form(...),
