@@ -1,13 +1,13 @@
-# 🧠 AI-based Department Recommendation - BitHealth
+# AI-based Department Recommendation - BitHealth
 
 Proyek ini merupakan aplikasi berbasis **FastAPI** yang memanfaatkan **LLM (Large Language Model)** untuk merekomendasikan **departemen medis** berdasarkan gejala yang diberikan oleh pengguna. Aplikasi ini cocok untuk digunakan dalam proses triase awal secara otomatis dalam sistem kesehatan digital.
 
 ---
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
 - Form input sederhana berbasis HTML
-- Proses rekomendasi departemen menggunakan LLM dan prompt dinamis
+- Proses rekomendasi departemen menggunakan LLM (model gpt-4o-mini) dan prompt dinamis 
 - Endpoint API yang fleksibel: respon HTML (untuk browser) & JSON (untuk Swagger/API)
 - Swagger UI otomatis tersedia untuk testing dan dokumentasi
 
