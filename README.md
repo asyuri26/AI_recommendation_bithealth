@@ -63,13 +63,17 @@ venv\Scripts\activate  # Windows
 ```bash
 pip install -r requirements.txt
 ```
+4. Masukkan OpenAI API Key yang kalian punya di file .env
+```bash
+OPEN_API_KEY = -insert here-
+```
 
-4. Jalankan Aplikasi
+5. Jalankan Aplikasi
 ```bash
 uvicorn main:app --reload
 ```
 
-5. Akses Aplikasi
+6. Akses Aplikasi
 ``` bash
 Form HTML (User Interface):
 http://127.0.0.1:8000/
