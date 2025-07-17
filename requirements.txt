@@ -5,3 +5,4 @@ openai
 langchain
 jinja2
 langchain-community
+langchain-openai
