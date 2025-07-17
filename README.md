@@ -49,7 +49,7 @@ Proyek ini merupakan aplikasi berbasis **FastAPI** yang memanfaatkan **LLM (Larg
 
 ```bash
 git clone https://github.com/asyuri26/AI_recommendation_bithealth.git
-cd AI_recommendation-bithealth
+cd AI_recommendation_bithealth
 ```
 
 2. Buat Virtual Environment (opsional tapi direkomendasikan)
