@@ -5,6 +5,7 @@ from fastapi.templating import Jinja2Templates
 
 from llm_utils.config import llm
 from llm_utils.prompt import load_examples, prompt_template
+import uvicorn
 
 app = FastAPI()
 templates = Jinja2Templates(directory="templates")
