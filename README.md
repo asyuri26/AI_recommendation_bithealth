@@ -38,8 +38,6 @@ cd AI_recommendation-bithealth
 
 2. Buat Virtual Environment (opsional tapi direkomendasikan)
 ```bash
-Copy
-Edit
 python -m venv venv
 source venv/bin/activate # MacOS/Linux
 venv\Scripts\activate  # Windows
@@ -47,39 +45,22 @@ venv\Scripts\activate  # Windows
 
 3. Install Dependencies
 ```bash
-Copy
-Edit
 pip install -r requirements.txt
 ```
 
 4. Jalankan Aplikasi
 ```bash
-Copy
-Edit
 uvicorn main:app --reload
 ```
 
 5. Akses Aplikasi
+``` bash
 Form HTML (User Interface):
 http://127.0.0.1:8000/
 
 Swagger UI (Testing API):
 http://127.0.0.1:8000/docs
+```
 
-📌 Catatan Tambahan
-Pastikan koneksi internet aktif jika menggunakan OpenAI API.
-
-Endpoint /api/recommend akan otomatis menyesuaikan response:
-
-Browser → Tampilkan HTML
-
-API Client / Swagger → Tampilkan JSON
-
-Jika kamu menggunakan OpenAI, pastikan API Key sudah diatur (bisa disimpan di .env atau langsung dalam config.py).
-
-👨‍💻 Author
-Made with ❤️ by asyuri26
-
-yaml
-Copy
-Edit
+Author
+Made by asyuri26
