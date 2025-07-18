@@ -2,6 +2,8 @@
 
 Proyek ini merupakan aplikasi berbasis **FastAPI** yang memanfaatkan **LLM (Large Language Model)** untuk merekomendasikan **departemen medis** berdasarkan gejala yang diberikan oleh pengguna. Aplikasi ini cocok untuk digunakan dalam proses triase awal secara otomatis dalam sistem kesehatan digital.
 
+Link Deploy : https://airecommendationbithealth-production.up.railway.app/
+
 ---
 
 ## Fitur Utama
@@ -81,8 +83,6 @@ http://127.0.0.1:8000/
 Swagger UI (Testing API):
 http://127.0.0.1:8000/docs
 ```
-
-Link Deploy : https://airecommendationbithealth-production.up.railway.app/
 
 Author
 Made by asyuri26
