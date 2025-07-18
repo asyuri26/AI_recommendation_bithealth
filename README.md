@@ -67,7 +67,7 @@ pip install -r requirements.txt
 ```
 4. Masukkan OpenAI API Key yang kalian punya di file .env
 ```bash
-OPEN_API_KEY = -insert here-
+OPENAI_API_KEY = -insert here-
 ```
 
 5. Jalankan Aplikasi
